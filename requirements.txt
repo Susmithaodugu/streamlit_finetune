@@ -1,0 +1,7 @@
+langchain
+langchain_community
+transformers
+torch
+streamlit
+tenacity==8.2.1
+accelerate
